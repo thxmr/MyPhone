@@ -3,6 +3,9 @@ MyPhone is a project where we can see multiples features available on an Iphone,
 In this project, multiples technologies will be used, such as HTML, CSS, JavaScript, jQuery.
 
 ---
+<h2>The project is in Version 1.</h2>
+
+---
 <h1><b>VERSION 1</b></h1>
 
 In this version, those features are added :<br>
